@@ -1,5 +1,2 @@
-ver 0.3
-If everything goes well ,the container will autoupdated to ver 0.3 tomorrow morning .
-I will check it after work-morning-time tomorrow @20210616.
-Hope well!!
-Goodluck!!
+ver 0.4
+to test if the auto-update timer is working . minutely.
